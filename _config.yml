@@ -1,0 +1,28 @@
+name: SpiritHorse
+favicon: null
+layout_spectrum: 0.40922015183605254
+typography_spectrum: 0.07790123648010194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5795902372337878
+  lightness: 0.026314115850254893
+  saturation: 0.4593811212107539
+  rhythmicContrast: 0.6485315882600844
+purpose: []
